@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NFRIDOY
-- 👀 I’m interested in Software Dev
-- 🌱 I’m currently learning C++,C#
+- 👀 I’m interested in Software & Web Dev
+- 🌱 I’m currently learning C++,C#,Java, HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nfridoy@gmail.com
 
