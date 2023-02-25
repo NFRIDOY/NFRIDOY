@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NFRIDOY
+- 👋 Hi, I’m NF RIDOY
 - 👀 I’m interested in Software & Web Dev
 - 🌱 I’m currently learning C++, C#, Java, HTML, CSS, JavaScript, Python
 - 💞️ I’m looking to collaborate on Java
