@@ -2,8 +2,8 @@
 <ul>
 <li> 👀 I’m interested in Software & Web Dev </li>
 <li> 🌱 I’m currently learning C++, C#, Java, HTML, CSS, JavaScript, Python </li>
-<li> 💞️ I’m looking to collaborate on Java</li>
-<li> 📫 How to reach me nfridoy@gmail.com</li>
+<li> 💞️ I’m looking to collaborate on Web Development</li>
+<li> 📫 How to reach me? My Email > nfridoy@gmail.com</li>
 </ul>
 <!---
 NFRIDOY/NFRIDOY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
