@@ -1,5 +1,6 @@
 👋 Hi, Assalamualaikum. 
-<h1> I’m NF RIDOY. Md. Noman Faysal Ridoy </h1>
+<h1> I’m NF RIDOY. </h1>
+<h2>Md. Noman Faysal Ridoy <h2> 
 <ul>
 <li> 👀 I’m Interested in Web Development </li>
 <li> ✅ I’m Expert in HTML, CSS, Bootstrap 5, JavaScript and C++ </li>
