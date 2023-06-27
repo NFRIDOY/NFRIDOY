@@ -9,7 +9,7 @@
 <li> 📫 How to reach me? My Email > nfridoy@gmail.com</li>
 </ul>
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWigwfLQ4R_RsIKwuu4wWNp-Wng8rsw-3Pjepmru0UxxslriizuelHsRE50F8n56iABEQ&usqp=CAU">
+<img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png">
 <!---
 NFRIDOY/NFRIDOY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
