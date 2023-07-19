@@ -9,7 +9,7 @@
 <li> 🐳 Knocke me on LinkedIn > https://linkedin.com/in/nfridoy</li>
 <li> 📫 How to reach me? My Email > nfridoy@gmail.com</li>
 <li> My CV => 
-  <a href="https://docs.google.com/document/d/e/2PACX-1vRzSoJSZMX5K2de06-GhX52lUBtQaJo_-sAmThlG8KdFk_1hetsD3-nXi9eUPInLculCT7qHi7FhAcD/pub" download ></a>
+  <a href="https://docs.google.com/document/d/e/2PACX-1vRzSoJSZMX5K2de06-GhX52lUBtQaJo_-sAmThlG8KdFk_1hetsD3-nXi9eUPInLculCT7qHi7FhAcD/pub" download >Download My CV</a>
   <iframe src="https://docs.google.com/document/d/e/2PACX-1vRzSoJSZMX5K2de06-GhX52lUBtQaJo_-sAmThlG8KdFk_1hetsD3-nXi9eUPInLculCT7qHi7FhAcD/pub?embedded=true"></iframe>
 </li>
 </ul>
