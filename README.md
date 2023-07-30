@@ -3,7 +3,7 @@
 
 <ul>
 <li> 👀 I’m Interested in Web Development </li>
-<li> ✅ I’m an Expert in HTML5, CSS3, Bootstrap 5, Tailwind CSS, JavaScript ES6 & C++ </li>
+<li> ✅ I’m an Expert in HTML5, CSS3, Bootstrap5, TailwindCSS, JavaScript ES6 & C++ </li>
 <li> 🌱 I’m Currently Learning React.js, Python & AI </li>
 <li> 💞️ I’m Looking to Collaborate on Web Development</li>
 <li> 🐳 Knocke me on LinkedIn > https://linkedin.com/in/nfridoy</li>
