@@ -2,7 +2,7 @@
 <h1> I’m NF RIDOY &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /** Md. Noman Faysal Ridoy **/ </h1>
 
 <ul>
-<li> 👀 I’m Interested in Web Development </li>
+<li> 👀 I’m Interested in Web Development, Mobile Development </li>
 <li> ✅ I’m an Expert in HTML5, CSS3, Bootstrap5, TailwindCSS, JavaScript ES6, React.js & C++ </li>
 <li> 🌱 I’m Currently Learning MongoDB, Node.js, Express.js, Python & AI </li>
 <li> 💞️ I’m Looking to Collaborate on Web Development</li>
