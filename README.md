@@ -3,7 +3,7 @@
 
 <ul>
 <li> 👀 I’m Interested in Web Development, Mobile Development </li>
-<li> ✅ I’m an Expert in HTML5, CSS3, Bootstrap5, TailwindCSS, JavaScript ES6, React.js & C++ </li>
+<li> ✅ I’m an Expert in React.js, JavaScript ES6, HTML5, CSS3, Bootstrap5, TailwindCSS, & C++ </li>
 <li> 🌱 I’m Currently Learning MongoDB, Node.js, Express.js, Python & AI </li>
 <li> 💞️ I’m Looking to Collaborate on Web Development</li>
 <li> 🐳 Knocke me on LinkedIn > https://linkedin.com/in/nfridoy</li>
