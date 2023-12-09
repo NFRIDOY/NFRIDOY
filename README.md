@@ -42,6 +42,9 @@ Passionate CSE Student. Proficient In HTML, CSS, Javascript, C++ And Python. Ded
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+<h3 align="left">My Working Field:</h3>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nfridoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nfridoy" height="30" width="40" /></a>
@@ -64,8 +67,8 @@ Passionate CSE Student. Proficient In HTML, CSS, Javascript, C++ And Python. Ded
 <div>
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nfridoy&theme=react) -->
-<img width="100%"  align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nfridoy&theme=react" alt="nfridoy" />&nbsp;
-<p><img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=nfridoy&theme=react&show_icons=true&locale=en" alt="nfridoy" /></p>
+<!-- <img width="100%"  align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nfridoy&theme=react" alt="nfridoy" />&nbsp;
+<p><img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=nfridoy&theme=react&show_icons=true&locale=en" alt="nfridoy" /></p> -->
 
 <p align="center" ><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nfridoy&theme=react&" alt="nfridoy" /></p>
 </div>
