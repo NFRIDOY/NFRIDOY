@@ -3,6 +3,12 @@
 
 <h1 style="position: absolute1" align="center">Hi 👋, I'm Md Noman Faysal Ridoy</h1> 
 <h3 align="center">A passionate frontend web developer from Bangladesh</h3>
+<p align="center">
+
+Passionate CSE Student. Proficient In HTML, CSS, Javascript, C++ And Python. Dedicated To Continuous Learning, Problem-Solving And Creating Innovative Websites.
+
+
+</p>
 
 </div>
 
@@ -56,11 +62,12 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nfridoy&theme=react)
 
-<div style="display: flex">
+<div style="display: flex; flex-direction: row;">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nfridoy&theme=react)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nfridoy&theme=react)
+
 </div>
 
 <div style="display: flex">
@@ -68,6 +75,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nfridoy&theme=react)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nfridoy&theme=react&utcOffset=8)
+
 </div>
 
 
