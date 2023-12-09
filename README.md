@@ -71,11 +71,12 @@ Passionate CSE Student. Proficient In HTML, CSS, Javascript, C++ And Python. Ded
 <div align="center" width="100vw">
 <div>
 
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nfridoy&theme=react) -->
-<!-- <img width="100%"  align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nfridoy&theme=react" alt="nfridoy" />&nbsp;
-<p><img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=nfridoy&theme=react&show_icons=true&locale=en" alt="nfridoy" /></p> -->
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nfridoy&theme=react) --> 
+<img width="100%"  align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nfridoy&theme=react" alt="nfridoy" />
+<!-- &nbsp; -->
+<!-- <p><img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=nfridoy&theme=react&show_icons=true&locale=en" alt="nfridoy" /></p>
 
-<p align="center" ><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nfridoy&theme=react&" alt="nfridoy" /></p>
+<p align="center" ><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nfridoy&theme=react&" alt="nfridoy" /></p> -->
 </div>
 
 <!-- <div style="display: flex;"> -->
