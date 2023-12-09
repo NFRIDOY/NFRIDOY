@@ -1,5 +1,5 @@
-<div style="position: relative1">
-<img src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" width="100%"/>
+<!-- <div style="position: relative1"> -->
+<img src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" width="100%" height="370px"/>
 
 <h1 style="position: absolute1" align="center">Hi 👋, I'm Md Noman Faysal Ridoy</h1> 
 <h3 align="center">A passionate frontend web developer from Bangladesh</h3>
@@ -10,7 +10,7 @@ Passionate CSE Student. Proficient In HTML, CSS, Javascript, C++ And Python. Ded
 
 </p>
 
-</div>
+<!-- </div> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nfridoy&label=Profile%20views&color=0e75b6&style=flat" alt="nfridoy" /> </p>
 
@@ -80,11 +80,13 @@ Passionate CSE Student. Proficient In HTML, CSS, Javascript, C++ And Python. Ded
 
 
 </div>
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/nfridoy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/nfridoy" /></a><a href="https://ko-fi.com/https://ko-fi.com/nfridoy"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/nfridoy" /></a></p><br><br>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nfridoy&show_icons=true&locale=en&layout=compact" alt="nfridoy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nfridoy&show_icons=true&locale=en" alt="nfridoy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nfridoy&" alt="nfridoy" /></p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/nfridoy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/nfridoy" /></a><a href="https://ko-fi.com/https://ko-fi.com/nfridoy"> <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/nfridoy" /></a></p><br><br>
