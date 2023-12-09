@@ -62,19 +62,11 @@ Passionate CSE Student. Proficient In HTML, CSS, Javascript, C++ And Python. Ded
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nfridoy&theme=react)
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex;">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nfridoy&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nfridoy&theme=react) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nfridoy&theme=react)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nfridoy&theme=react)
-
-</div>
-
-<div style="display: flex">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nfridoy&theme=react)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nfridoy&theme=react&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nfridoy&theme=react) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nfridoy&theme=react&utcOffset=8)
 
 </div>
 
