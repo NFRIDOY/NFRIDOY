@@ -5,7 +5,7 @@
 <h3 align="center">A passionate jr. full stack web developer from Bangladesh</h3>
 <p align="center">
 
-Passionate CSE Student. Proficient In HTML, CSS, Javascript, C++ And Python. Dedicated To Continuous Learning, Problem-Solving And Creating Innovative Websites.
+Passionate CSE Student. Proficient In React, Javascript, Nodejs, Expressjs, MongoDB, HTML, CSS, TailwindCSS, C++ And Python. I Want to explore backend more. Dedicated To Continuous Learning, Problem-Solving And Creating Innovative Websites.
 
 
 </p>
