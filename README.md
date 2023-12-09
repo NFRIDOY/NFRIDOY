@@ -15,17 +15,17 @@
 
 - 🤝 I’m looking for help with [Event Management](https://github.com/NFRIDOY/event-management.git)
 
-- 👨‍💻 All of my projects are available at [https://nfridoy.github.io/nfridoy-portfolio/](https://nfridoy.github.io/nfridoy-portfolio/)
+- 👨‍💻 All of myself are available at [nfridoy-portfolio](https://nfridoy.github.io/nfridoy-portfolio/)
 
-- 📝 I regularly write articles on [https://nfridoy.github.io/nfridoy-portfolio/](https://nfridoy.github.io/nfridoy-portfolio/)
+<!-- - 📝 I regularly write articles on [https://nfridoy.github.io/nfridoy-portfolio/](https://nfridoy.github.io/nfridoy-portfolio/) -->
 
 - 💬 Ask me about **React, Javascript**
 
 - 📫 How to reach me **nfridoy@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1SQC9PysOHk8RKhMV2hcQAwaKeY36pNPn](https://drive.google.com/drive/u/0/folders/1SQC9PysOHk8RKhMV2hcQAwaKeY36pNPn)
+- 📄 Know about my experiences **[Resume](https://drive.google.com/drive/u/0/folders/1SQC9PysOHk8RKhMV2hcQAwaKeY36pNPn)**
 
-- ⚡ Fun fact **I likes memes**
+- ⚡ Fun fact **I love to discuss about [Astronomy](https://www.amnh.org/explore/ology/astronomy/what-is-astronomy#:~:text=BIG%20IDEAS,the%20planets%2C%20and%20the%20stars%20.) 🚀**
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
