@@ -2,7 +2,7 @@
 <img src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" width="100%" height="370px"/>
 
 <h1 style="position: absolute1" align="center">Hi 👋, I'm Md Noman Faysal Ridoy</h1> 
-<h3 align="center">A passionate frontend web developer from Bangladesh</h3>
+<h3 align="center">A passionate jr. full stack web developer from Bangladesh</h3>
 <p align="center">
 
 Passionate CSE Student. Proficient In HTML, CSS, Javascript, C++ And Python. Dedicated To Continuous Learning, Problem-Solving And Creating Innovative Websites.
@@ -42,6 +42,14 @@ Passionate CSE Student. Proficient In HTML, CSS, Javascript, C++ And Python. Ded
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+<h3 align="left">My Working Field:</h3>
+
+- I am a jr. full stack web developer 
+- I work with React, Javascript, HTML and CSS
+- For Frontend design I use React, TailwindCSS and 
+- For backend I use nodejs, expressjs and MongoDB
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nfridoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nfridoy" height="30" width="40" /></a>
@@ -64,8 +72,10 @@ Passionate CSE Student. Proficient In HTML, CSS, Javascript, C++ And Python. Ded
 <div>
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nfridoy&theme=react) -->
-<img width="100%"  align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nfridoy&theme=react" alt="nfridoy" />&nbsp;
+<!-- <img width="100%"  align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nfridoy&theme=react" alt="nfridoy" />&nbsp;
+<p><img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=nfridoy&theme=react&show_icons=true&locale=en" alt="nfridoy" /></p> -->
 
+<p align="center" ><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nfridoy&theme=react&" alt="nfridoy" /></p>
 </div>
 
 <!-- <div style="display: flex;"> -->
@@ -79,18 +89,48 @@ Passionate CSE Student. Proficient In HTML, CSS, Javascript, C++ And Python. Ded
 
 </div>
 
+<!-- 
+<img width="100%"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nfridoy&theme=react&show_icons=true&locale=en&layout=compact" alt="nfridoy" />&nbsp;
+ -->
 
-<p><img width="100%"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nfridoy&theme=react&show_icons=true&locale=en&layout=compact" alt="nfridoy" />&nbsp;<img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=nfridoy&theme=react&show_icons=true&locale=en" alt="nfridoy" /></p>
 
-<p align="center" ><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nfridoy&theme=react&" alt="nfridoy" /></p>
-
-## Last Three Project of mine
+## 🔥 Projects
 ### Fitness Tracker X 
 [Demo](https://fitness-tracker-x.web.app/)
 
 #### Features
--
--
+- In "Fitness Tracker X" website you can login and register. By genarally registering you be a member of the "Fitness Tracker X" website.
+- You can see all trainer features.
+- You can choose the trainer and various training plans
+- Here are three different dashboard features for admin, trainer and members.
+- Being Login you can apply for a trainer.
+- Admin can accept or reject the trainer application.
+
+### Job Market X
+[Demo](https://job-market-x.web.app)
+
+#### Features
+- This website shows job posted by other users.
+- Here an user can post job for recruitment. A user can also show his/her posted jobs separetly in "My Posted Job" page. Also can update and delete that job.
+- An user can play recruiter role and job hunter role at the same time.
+- An user can Bid jobs and preview Bid jobs as a tabular formate.
+- An user can show all requst from other user in his/her own posted job as a tabular formate and can accept or reject job request.
+-  After accepting job from bid request the job hunter can complete the job by clicking. 
+- An user can update his/her profile (name, profile photo)
+
+### NF Technology
+[Demo](https://brand-shop-ed6ff.web.app)
+
+#### Features
+- This website shows top Technology and Electronics brands
+- In the home page it highlighted some brand name with image
+- By clicking brand image it takes user to that brand products
+- In the brand products there are a slider with images and product card
+- Product card has two button details & update
+- User can update and veiw products
+- User can also Add to cart form product details page
+- User can also delete product form cart page
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/nfridoy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/nfridoy" /></a><a href="https://ko-fi.com/https://ko-fi.com/nfridoy"> <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/nfridoy" /></a></p><br><br>
