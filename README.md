@@ -65,7 +65,9 @@ Passionate CSE Student. Proficient In HTML, CSS, Javascript, C++ And Python. Ded
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nfridoy&theme=react) -->
 <img width="100%"  align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nfridoy&theme=react" alt="nfridoy" />&nbsp;
+<p><img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=nfridoy&theme=react&show_icons=true&locale=en" alt="nfridoy" /></p>
 
+<p align="center" ><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nfridoy&theme=react&" alt="nfridoy" /></p>
 </div>
 
 <!-- <div style="display: flex;"> -->
@@ -79,10 +81,10 @@ Passionate CSE Student. Proficient In HTML, CSS, Javascript, C++ And Python. Ded
 
 </div>
 
+<!-- 
+<img width="100%"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nfridoy&theme=react&show_icons=true&locale=en&layout=compact" alt="nfridoy" />&nbsp;
+ -->
 
-<p><img width="100%"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nfridoy&theme=react&show_icons=true&locale=en&layout=compact" alt="nfridoy" />&nbsp;<img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=nfridoy&theme=react&show_icons=true&locale=en" alt="nfridoy" /></p>
-
-<p align="center" ><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nfridoy&theme=react&" alt="nfridoy" /></p>
 
 ## Last Three Project of mine
 ### Fitness Tracker X 
