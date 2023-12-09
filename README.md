@@ -1,11 +1,16 @@
-<h1 align="center">Hi 👋, I'm Md Noman Faysal Ridoy</h1>
+<div style="position: relative1">
+<img src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" width="100%"/>
+
+<h1 style="position: absolute1" align="center">Hi 👋, I'm Md Noman Faysal Ridoy</h1> 
 <h3 align="center">A passionate frontend web developer from Bangladesh</h3>
+
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nfridoy&label=Profile%20views&color=0e75b6&style=flat" alt="nfridoy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nfridoy" alt="nfridoy" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/nfridoy" target="blank"><img src="https://img.shields.io/twitter/follow/nfridoy?logo=twitter&style=for-the-badge" alt="nfridoy" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/nfridoy" target="blank"><img src="https://img.shields.io/twitter/follow/nfridoy?logo=twitter&style=for-the-badge" alt="nfridoy" /></a> </p> -->
 
 - 🔭 I’m currently working on [Fitness Tracker X](https://fitness-tracker-x.web.app/)
 
@@ -51,13 +56,19 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nfridoy&theme=react)
 
+<div style="display: flex">
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nfridoy&theme=react)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nfridoy&theme=react)
+</div>
+
+<div style="display: flex">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nfridoy&theme=react)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nfridoy&theme=react&utcOffset=8)
+</div>
 
 
 </div>
