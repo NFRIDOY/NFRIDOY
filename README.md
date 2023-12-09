@@ -2,7 +2,7 @@
 <img src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" width="100%" height="370px"/>
 
 <h1 style="position: absolute1" align="center">Hi 👋, I'm Md Noman Faysal Ridoy</h1> 
-<h3 align="center">A passionate frontend web developer from Bangladesh</h3>
+<h3 align="center">A passionate jr. full stack web developer from Bangladesh</h3>
 <p align="center">
 
 Passionate CSE Student. Proficient In HTML, CSS, Javascript, C++ And Python. Dedicated To Continuous Learning, Problem-Solving And Creating Innovative Websites.
@@ -43,6 +43,11 @@ Passionate CSE Student. Proficient In HTML, CSS, Javascript, C++ And Python. Ded
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">My Working Field:</h3>
+
+- I am a jr. full stack web developer 
+- I work with React, Javascript, HTML and CSS
+- For Frontend design I use React, TailwindCSS and 
+- For backend I use nodejs, expressjs and MongoDB
 
 
 <h3 align="left">Connect with me:</h3>
