@@ -24,7 +24,7 @@ Passionate CSE Student. Proficient In React, Javascript, Nodejs, Expressjs, Mong
 
 - 🤝 I’m looking for help with [Event Management](https://github.com/NFRIDOY/event-management.git)
 
-- 👨‍💻 All of myself are available at [nfridoy-portfolio](https://nfridoy.github.io/nfridoy-portfolio/)
+- 👨‍💻 All of myself are available at [nfridoy-portfolio](https://nfridoy-portfolio.web.app)
 
 <!-- - 📝 I regularly write articles on [https://nfridoy.github.io/nfridoy-portfolio/](https://nfridoy.github.io/nfridoy-portfolio/) -->
 
