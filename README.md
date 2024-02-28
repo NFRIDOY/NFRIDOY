@@ -1,6 +1,6 @@
 <!-- <div style="position: relative1"> -->
-<a href="https://ibb.co/9w37Q56"><img src="https://i.ibb.co/Gs3qzSy/Linkedin-Banner22.png" width="100%" height="270px" alt="Linkedin-Banner22" border="0"></a>
-<!-- <img src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" width="100%" height="370px"/> -->
+<!-- <a href="https://ibb.co/9w37Q56"><img src="https://i.ibb.co/Gs3qzSy/Linkedin-Banner22.png" width="100%" height="270px" alt="Linkedin-Banner22" border="0"></a> -->
+<img src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" width="100%" height="370px"/>
 
 <h1 style="position: absolute1" align="center">Hi 👋, I'm Md Noman Faysal Ridoy</h1> 
 <h3 align="center">A passionate React Full Stack Developer from Bangladesh</h3>
