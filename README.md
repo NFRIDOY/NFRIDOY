@@ -6,7 +6,7 @@
 <h3 align="center">A passionate React Full Stack Developer from Bangladesh</h3>
 <p align="center">
 
-Passionate CSE Student. Proficient In React, Javascript, Nodejs, Expressjs, MongoDB, HTML, CSS, TailwindCSS, C++ And Python. I Want to explore backend more. Dedicated To Continuous Learning, Problem-Solving And Creating Innovative Websites.
+Passionate CSE Graduate. Full Stack Developer. Proficient In React, Javascript, Nodejs, Expressjs, MongoDB, HTML, CSS, TailwindCSS, C++ And Python. I Want to explore the backend more. I am dedicated to continuous learning, Problem-solving, and creating innovative websites.
 
 
 </p>
