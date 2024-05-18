@@ -17,7 +17,7 @@ Passionate CSE Graduate. Full Stack Developer. Proficient In React, Javascript, 
 
 <!-- <p align="left"> <a href="https://twitter.com/nfridoy" target="blank"><img src="https://img.shields.io/twitter/follow/nfridoy?logo=twitter&style=for-the-badge" alt="nfridoy" /></a> </p> -->
 
-- 🔭 I’m currently working on [Fitness Tracker X](https://fitness-tracker-x.web.app/)
+- 🔭 I’m currently working on [Asset Hexa](https://asset-hexa.web.app/)
 
 - 🌱 I’m currently learning **NextJs, Mongoose**
 
