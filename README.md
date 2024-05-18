@@ -1,7 +1,7 @@
 <!-- <div style="position: relative1"> -->
 <!-- <a href="https://ibb.co/9w37Q56"><img src="https://i.ibb.co/Gs3qzSy/Linkedin-Banner22.png" width="100%" height="270px" alt="Linkedin-Banner22" border="0"></a> -->
-<img src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" width="100%" height="370px"/>
-<div align="center" ><img src="https://api.daily.dev/devcards/v2/ibyrinaKEqP6fnc15Wrbx.png?r=37b&type=wide" width="652" alt="NF RIDOY's Dev Card"/> </div>
+<!--<img src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" width="100%" height="370px"/> -->
+<!--<div align="center" ><img src="https://api.daily.dev/devcards/v2/ibyrinaKEqP6fnc15Wrbx.png?r=37b&type=wide" width="652" alt="NF RIDOY's Dev Card"/> </div>-->
 <div align="center" ><img src="https://api.daily.dev/devcards/v2/ibyrinaKEqP6fnc15Wrbx.png?type=default&r=sjt" width="356" alt="NF RIDOY's Dev Card"/></div>
 
 <h1 style="position: absolute1" align="center">Hi 👋, I'm Md Noman Faysal Ridoy</h1> 
