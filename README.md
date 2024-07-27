@@ -5,7 +5,7 @@
 <!--<div align="center" ><img src="https://api.daily.dev/devcards/v2/ibyrinaKEqP6fnc15Wrbx.png?type=default&r=sjt" width="356" alt="NF RIDOY's Dev Card"/></div> -->
 
 <h1 style="position: absolute1" align="center">Hi 👋, I'm Md Noman Faysal Ridoy</h1> 
-<h3 align="center">A passionate React Full Stack Developer from Bangladesh</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 <p align="center">
 
 Passionate CSE Graduate. Full Stack Developer. Proficient In React, Javascript, Nodejs, Expressjs, MongoDB, HTML, CSS, TailwindCSS, C++ And Python. I Want to explore the backend more. I am dedicated to continuous learning, Problem-solving, and creating innovative websites.
