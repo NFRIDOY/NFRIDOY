@@ -1,6 +1,7 @@
 <!-- <div style="position: relative1"> -->
 <!-- <a href="https://ibb.co/9w37Q56"><img src="https://i.ibb.co/Gs3qzSy/Linkedin-Banner22.png" width="100%" height="270px" alt="Linkedin-Banner22" border="0"></a> -->
-<img src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" width="100%" height="370px"/>
+<!--<img src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" width="100%" height="370px"/>-->
+<img src="https://media.licdn.com/dms/image/v2/D4D12AQEZtPCuttD_iQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1697453573297?e=2147483647&v=beta&t=C8ZqgMEYiC1QXlEpXf-8AarpVF48qhR7lAd0ZgrbQ7M" width="100%" height="370px"/>
 <!--<div align="center" ><img src="https://api.daily.dev/devcards/v2/ibyrinaKEqP6fnc15Wrbx.png?r=37b&type=wide" width="652" alt="NF RIDOY's Dev Card"/> </div> -->
 <!--<div align="center" ><img src="https://api.daily.dev/devcards/v2/ibyrinaKEqP6fnc15Wrbx.png?type=default&r=sjt" width="356" alt="NF RIDOY's Dev Card"/></div> -->
 
