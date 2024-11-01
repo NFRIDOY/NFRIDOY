@@ -100,7 +100,7 @@ Passionate CSE Graduate. Full Stack Developer. Proficient In React, Javascript, 
 
 ## 🔥 Projects
 ### Fitness Tracker X 
-[Demo](https://fitness-tracker-x.web.app/)
+<!--> [Demo](https://fitness-tracker-x.web.app/) </>
 
 #### Features
 - In "Fitness Tracker X" website you can login and register. By genarally registering you be a member of the "Fitness Tracker X" website.
@@ -111,7 +111,7 @@ Passionate CSE Graduate. Full Stack Developer. Proficient In React, Javascript, 
 - Admin can accept or reject the trainer application.
 
 ### Job Market X
-[Demo](https://job-market-x.web.app)
+<!--> [Demo](https://job-market-x.web.app) </>
 
 #### Features
 - This website shows job posted by other users.
@@ -121,6 +121,8 @@ Passionate CSE Graduate. Full Stack Developer. Proficient In React, Javascript, 
 - An user can show all requst from other user in his/her own posted job as a tabular formate and can accept or reject job request.
 -  After accepting job from bid request the job hunter can complete the job by clicking. 
 - An user can update his/her profile (name, profile photo)
+
+
 
 ### NF Technology
 [Demo](https://brand-shop-ed6ff.web.app)
