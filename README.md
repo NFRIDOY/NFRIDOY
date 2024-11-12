@@ -98,21 +98,6 @@ Passionate CSE Graduate. Full Stack Developer. Proficient In React, Javascript, 
  -->
 
 
-## 🔥 Projects
-
-### NF Technology
-[Demo](https://brand-shop-ed6ff.web.app)
-
-#### Features
-- This website shows top Technology and Electronics brands
-- In the home page it highlighted some brand name with image
-- By clicking brand image it takes user to that brand products
-- In the brand products there are a slider with images and product card
-- Product card has two button details & update
-- User can update and veiw products
-- User can also Add to cart form product details page
-- User can also delete product form cart page
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nfridoy" alt="nfridoy" /></a> </p>
 
 <h3 align="left">Support:</h3>
