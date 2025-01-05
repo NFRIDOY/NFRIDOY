@@ -21,6 +21,7 @@ Passionate CSE Graduate. Full Stack Developer. Proficient In React, Javascript, 
 
 <!-- <p align="left"> <a href="https://twitter.com/nfridoy" target="blank"><img src="https://img.shields.io/twitter/follow/nfridoy?logo=twitter&style=for-the-badge" alt="nfridoy" /></a> </p> -->
 
+<!--
 - 🔭 I’m currently working on [Asset Hexa](https://asset-hexa.web.app/)
 
 - 🌱 I’m currently learning **NextJs, Mongoose**
@@ -28,7 +29,7 @@ Passionate CSE Graduate. Full Stack Developer. Proficient In React, Javascript, 
 - 👯 I’m looking to collaborate on [Job Market X](https://github.com/NFRIDOY/job-market-x-client)
 
 - 🤝 I’m looking for help with [Event Management](https://github.com/NFRIDOY/event-management.git)
-
+ -->
 - 👨‍💻 All of myself are available at [nfridoy-portfolio](https://nfridoy-portfolio.web.app)
 
 <!-- - 📝 I regularly write articles on [https://nfridoy.github.io/nfridoy-portfolio/](https://nfridoy.github.io/nfridoy-portfolio/) -->
