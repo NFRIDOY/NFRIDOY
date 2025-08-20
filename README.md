@@ -57,6 +57,7 @@ Passionate CSE Graduate. Full Stack Developer. Proficient In React, Javascript, 
 
 <h3 align="left">Languages </h3>
 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,figma&theme=light)](https://skillicons.dev)
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
