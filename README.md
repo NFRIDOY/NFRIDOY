@@ -108,8 +108,9 @@ Passionate CSE Graduate. Full Stack Developer. Proficient In React, Javascript, 
 
 <h3 align="left">Tools</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker, figma" />
+    <img src="https://skillicons.dev/icons?i=docker" />
   </a>
+
 </a> 
  
 
