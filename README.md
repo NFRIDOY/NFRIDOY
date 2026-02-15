@@ -129,8 +129,6 @@ Passionate CSE Graduate. Full Stack Developer. Proficient In React, Javascript, 
 <p align="left">
 <a href="https://www.linkedin.com/in/nfridoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nfridoy" height="30" width="40" />
 </a>
-<a href="https://instagram.com/nf_ridoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nf_ridoy" height="30" width="40" />
-</a>
 <a href="https://www.youtube.com/@cs111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@cs111" height="30" width="40" />
 </a>
 <a href="https://www.topcoder.com/members/nfridoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="nfridoy" height="30" width="40" />
